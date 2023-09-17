@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="">
+      <a href="dingbook@naver.com">
       한예진
       </a>
     </td>
